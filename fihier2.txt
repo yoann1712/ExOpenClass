@@ -1,0 +1,7 @@
+// Liste potentielle de collocataires 
+
+Chloé
+Pierre
+Benoit
+Boris
+Tim
